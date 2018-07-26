@@ -59,7 +59,7 @@ server:
 * KYOZO_SERET_KEY_BASE
 
 ### Client
-**
+
 The following env variables need to be considered for utilizing a vagrant client
 with KyozoStore:
 
